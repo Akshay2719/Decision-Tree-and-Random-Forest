@@ -1,0 +1,12 @@
+What is a decision tree? 
+1. A decision tree uses the tree representation to solve a problem in which each node represents an attribute, each link represents a decision rule 
+and each leaf node represents an outcome (categorical or continuous value) 
+2. The algorithm falls under the category of supervised learning and can be used to solve both regression and classification problems.
+
+Random Forest :
+1. A new sample is chosen every time, to build the tree. This introduces randomness which increases the bias and reduces the variances of the model.
+2. Prevents overfitting of a model, which is a concern in case of decision trees 
+3. Yields much better performing generalized models.
+4. A combination of learning models which increases the classification accuracy 
+5. Random forest is a supervised learning algorithm which works as a large collection of de-correlated decision trees 
+6. The ‘forest’ which the algorithm builds, is an ensemble of decision trees.
