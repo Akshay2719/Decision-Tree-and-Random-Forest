@@ -1,4 +1,4 @@
-# Decision-Tree-and-Random-Forest
+# Decision-Tree-and-Random-Forest-Project-on-Red Wine Quality
 
 I worked on a Decision Tree and Random Forest Algorithm for a data set of Red wine quality. 
 We'll attempt to create a model that predicts the quality of Red wine based on its characteristics.
